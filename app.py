@@ -922,9 +922,6 @@ if "resultados" in st.session_state:
             mostrar_info("Vuelve a analizar la carpeta para actualizar la vista previa.")
 
 
-# ==========================================
-# 14. PIE DE PAGINA
-# ==========================================
 
 st.markdown("""
 <div class="pie">
